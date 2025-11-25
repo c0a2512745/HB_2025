@@ -1,0 +1,94 @@
+html{
+    background-color: rgb(40,40,40);
+    color: rgb(175,175,175);
+}
+
+.body{
+    text-align: center;
+}
+
+.hapiba{
+    font-size: 20px;
+}
+
+.dekaname{
+    color: rgb(100,200,150);
+    font-size:30px;
+    font-weight: bold;
+}
+
+.name{
+    color: rgb(100,200,150);
+    font-weight: bold;
+}
+
+.tannome{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+
+    color: rgb(200,50,100);
+    font-size: 4rem;
+}
+
+.messa{
+    margin-bottom: 150px;
+}
+
+.tate,.yoko{
+    font-weight: bold;
+    color: rgb(225,225,0);
+}
+
+.naname{
+    font-weight: bold;
+    color: rgb(0,200,200);
+}
+
+.nasi{
+    font-weight: bold;
+}
+
+.game_table,.seikai_table{
+    border-style: solid;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+td{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #333;
+}
+
+.kaitou_p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.kaitou{
+    background-color: rgb(60,60,60);
+    color: white;
+    margin: 10px;
+}
+
+.output{
+    margin-bottom: 100px;
+}
+
+.seikai_mojidake_btn{
+    margin-top: 70px;
+    /* margin-bottom: 30px; */
+}
+
+.seikai_btn{
+    margin-top: 30px;
+}
+
+.final{
+    margin-top: 200px;
+}
